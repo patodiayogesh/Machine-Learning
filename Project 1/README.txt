@@ -6,7 +6,7 @@ Email: yp2607@columbia.edu
 Digits_Classification.py:
   Used to run MLE and KNN classifiers to identify handwritten digits
 
-Compass Classification.py:
+Compass_Classification.py:
   Used to run MLE, KNN and Naive Bayes classifiers to predict 2 year recidivism
   on COMPAS dataset
 
