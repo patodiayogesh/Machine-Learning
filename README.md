@@ -11,6 +11,9 @@
    Optimization function estimates the city coordinates by minimizing the difference between estimated city coordinates 
    and actual distance between them.
 
+3. Kernelized_Kmeans:
+   Implementation of Lloyd's method to cluster data.
+   Implementation of Kernelized Lloyd's method to cluster data.
    
    
              
